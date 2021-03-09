@@ -23,7 +23,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ![alt text for screen readers](/screens/forgotPassword.png "Alterar senha")
 
 ### Cadastrar usuário
-![alt text for screen readers](/screens/registrar_Usuario.png "Cadastrar usuário")
+![alt text for screen readers](/screens/registerUser.png "Cadastrar usuário")
 
 ### Cadastrar produto
 ![alt text for screen readers](/screens/createProduct.png "Cadastrar produto")
